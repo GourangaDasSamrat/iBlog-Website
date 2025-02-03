@@ -11,6 +11,13 @@ Watch the video walkthrough of the project to see it in action!
 
 
 
+https://github.com/user-attachments/assets/38e7fcce-38e1-4563-a4c6-5f6e580c3866
+
+
+
+
+
+
 
 ---
 
@@ -55,7 +62,7 @@ Here's a quick overview of the project's file structure:
 
 1. **Clone the repository**
    ```bash
-
+   git@github.com:GourangaDasSamrat/iBlog-Website.git
 2. Open the index.html file in your browser
 Enjoy view this site.!
 
