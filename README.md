@@ -3,7 +3,7 @@
 Welcome to **iBlog Website**! This is a responsive blog website designed to
 
 🌟 **Live Demo**
-Check out the live version of the website: [iBlog Website]()
+Check out the live version of the website: [iBlog Website](https://gourangadassamrat.github.io/iBlog-Website/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
