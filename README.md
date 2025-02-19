@@ -3,7 +3,7 @@
 Welcome to **iBlog Website**! This is a responsive blog website designed to
 
 🌟 **Live Demo**
-Check out the live version of the website: [iBlog Website](https://gourangadassamrat.github.io/iBlog-Website/)
+Check out the live version of the website: [iBlog Website](iblogwebsitebygouranga.netlify.app)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/38e7fcce-38e1-4563-a4c6-5f6e580c3866
 
 Here's a quick overview of the project's file structure:
 
-📂E-commerce Website/ <br />
+📁 iBlog Website/ <br />
 ├── 📁css <br />
     ├── blogpost.css  <br />
     ├── contact.css <br />
