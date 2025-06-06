@@ -48,9 +48,13 @@
 - **Demo Video:**
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/38e7fcce-38e1-4563-a4c6-5f6e580c3866">
-    <img src="https://img.youtube.com/vi/38e7fcce-38e1-4563-a4c6-5f6e580c3866/0.jpg" alt="Demo Video" width="400"/>
-  </a>
+  
+[Screencast from 2025-06-06 11-18-12.webm](https://github.com/user-attachments/assets/056462e3-1561-43f4-84d9-201ea703e014)
+
+[Screencast from 2025-06-06 11-23-00.webm](https://github.com/user-attachments/assets/22c40636-3d92-4f10-a313-5883d32aea33)
+
+
+
 </p>
 
 ---
